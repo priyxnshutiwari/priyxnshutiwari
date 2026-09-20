@@ -1,38 +1,207 @@
-# Priyanshu Tiwari
+<div align="center">
+
+# PRIYANSHU TIWARI
 
 ### Full Stack Developer
 
-I build full-stack products and AI-powered applications.
+Building full-stack products and AI-powered systems.
 
-🌐 [Portfolio](https://priyanshu-portfolio-seven-teal.vercel.app/)  
-💼 [LinkedIn](https://www.linkedin.com/in/priyxnshutiwari/)  
-🧠 [LeetCode](https://leetcode.com/u/priyxnshutiwari/)
+<br>
+
+[ **Portfolio** ](https://priyanshu-portfolio-seven-teal.vercel.app/) ·
+[ GitHub ](https://github.com/priyxnshutiwari) ·
+[ LinkedIn ](https://www.linkedin.com/in/priyxnshutiwari/) ·
+[ LeetCode ](https://leetcode.com/u/priyxnshutiwari/)
+
+</div>
+
+<br>
+<br>
 
 ---
 
-## Featured Projects
+<br>
+
+## SELECTED WORK
+
+<br>
 
 ### CodeLens
 
-AI-powered code assistant for understanding and interacting with GitHub repositories using RAG, embeddings and vector search.
+**AI-powered code intelligence.**
 
-**Java · Spring Boot · PostgreSQL · pgvector · Next.js · OpenAI**
+A full-stack application for understanding unfamiliar
+GitHub repositories through semantic search, retrieval,
+and AI-assisted code interaction.
 
-[View Project](https://github.com/priyxnshutiwari/codelens)
+<br>
 
-### Spacely
+`Next.js` `TypeScript` `Java` `Spring Boot`  
+`PostgreSQL` `pgvector` `OpenAI` `Docker`
 
-AI-powered interior visualization application that transforms 2D architectural floor plans into 3D concepts.
+<br>
 
-**React · TypeScript · Vite · Tailwind · Generative AI**
+[ View case study → ](YOUR_VERCEL_URL/work/codelens)
+&nbsp;&nbsp;&nbsp;
+[ View source → ](https://github.com/priyxnshutiwari/codelens)
 
-[View Project](https://github.com/priyxnshutiwari/spacely)
+<br>
+<br>
 
 ---
 
-## Currently
+<br>
 
-- Building full-stack applications
-- Exploring RAG and LLM applications
-- Learning backend engineering with Spring Boot
-- Solving DSA problems
+### Spacely
+
+**From floor plan to visualization.**
+
+An AI-powered application that transforms 2D architectural
+floor plans into 3D interior concepts with visual comparison
+and project sharing.
+
+<br>
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Puter.js`
+
+<br>
+
+[ View case study → ](YOUR_VERCEL_URL/work/spacely)
+&nbsp;&nbsp;&nbsp;
+[ View source → ](https://github.com/priyxnshutiwari/spacely)
+
+<br>
+<br>
+
+---
+
+<br>
+
+## ENGINEERING
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Languages
+
+Java  
+JavaScript  
+TypeScript  
+SQL
+
+</td>
+
+<td width="50%" valign="top">
+
+### Frontend
+
+React  
+Next.js  
+Tailwind CSS  
+Vite
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Backend
+
+Spring Boot  
+Spring Data JPA  
+Hibernate  
+REST APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI & Data
+
+PostgreSQL  
+pgvector  
+RAG  
+Embeddings  
+LLMs
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## ABOUT
+
+I'm a Computer Science student at **PSIT Kanpur**,
+focused on full-stack development, backend engineering,
+and AI-powered applications.
+
+Currently building with Java and Spring Boot on the backend,
+and React / Next.js on the frontend.
+
+<br>
+
+<table>
+<tr>
+<td>
+
+**200+**  
+LeetCode Problems
+
+</td>
+
+<td>
+
+**8.2**  
+CGPA
+
+</td>
+
+<td>
+
+**2024 — 2028**  
+B.Tech · Computer Science
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## TOOLBOX
+
+Git · GitHub · Docker · IntelliJ IDEA · VS Code
+
+<br>
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Let's build something worth shipping.
+
+<br>
+
+**augustyapriyanshu@gmail.com**
+
+<br>
+<br>
+
+[ Portfolio → ](YOUR_VERCEL_URL)
+
+</div>
