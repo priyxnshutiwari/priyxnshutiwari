@@ -6,25 +6,16 @@
 
 Building full-stack products and AI-powered systems.
 
-<br>
-
-[ **Portfolio** ](https://priyanshu-portfolio-seven-teal.vercel.app/) ·
-[ GitHub ](https://github.com/priyxnshutiwari) ·
-[ LinkedIn ](https://www.linkedin.com/in/priyxnshutiwari/) ·
-[ LeetCode ](https://leetcode.com/u/priyxnshutiwari/)
+[**Portfolio**](https://priyanshu-portfolio-seven-teal.vercel.app/) ·
+[GitHub](https://github.com/priyxnshutiwari) ·
+[LinkedIn](https://www.linkedin.com/in/priyxnshutiwari/) ·
+[LeetCode](https://leetcode.com/u/priyxnshutiwari/)
 
 </div>
 
-<br>
-<br>
-
 ---
 
-<br>
-
 ## SELECTED WORK
-
-<br>
 
 ### CodeLens
 
@@ -34,23 +25,10 @@ A full-stack application for understanding unfamiliar
 GitHub repositories through semantic search, retrieval,
 and AI-assisted code interaction.
 
-<br>
-
-`Next.js` `TypeScript` `Java` `Spring Boot`  
+`Next.js` `TypeScript` `Java` `Spring Boot`
 `PostgreSQL` `pgvector` `OpenAI` `Docker`
 
-<br>
-
-[ View case study → ](YOUR_VERCEL_URL/work/codelens)
-&nbsp;&nbsp;&nbsp;
-[ View source → ](https://github.com/priyxnshutiwari/codelens)
-
-<br>
-<br>
-
----
-
-<br>
+[View source →](https://github.com/priyxnshutiwari/codelens)
 
 ### Spacely
 
@@ -60,26 +38,13 @@ An AI-powered application that transforms 2D architectural
 floor plans into 3D interior concepts with visual comparison
 and project sharing.
 
-<br>
-
 `React` `TypeScript` `Vite` `Tailwind CSS` `Puter.js`
 
-<br>
-
-[ View case study → ](YOUR_VERCEL_URL/work/spacely)
-&nbsp;&nbsp;&nbsp;
-[ View source → ](https://github.com/priyxnshutiwari/spacely)
-
-<br>
-<br>
+[View source →](https://github.com/priyxnshutiwari/spacely)
 
 ---
 
-<br>
-
 ## ENGINEERING
-
-<br>
 
 <table>
 <tr>
@@ -132,11 +97,7 @@ LLMs
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 ## ABOUT
 
@@ -147,61 +108,22 @@ and AI-powered applications.
 Currently building with Java and Spring Boot on the backend,
 and React / Next.js on the frontend.
 
-<br>
-
-<table>
-<tr>
-<td>
-
-**200+**  
-LeetCode Problems
-
-</td>
-
-<td>
-
-**8.2**  
-CGPA
-
-</td>
-
-<td>
-
-**2024 — 2028**  
-B.Tech · Computer Science
-
-</td>
-</tr>
-</table>
-
-<br>
+**200+** LeetCode Problems · **2024 — 2028** B.Tech · Computer Science
 
 ---
-
-<br>
 
 ## TOOLBOX
 
 Git · GitHub · Docker · IntelliJ IDEA · VS Code
 
-<br>
-<br>
-
 ---
-
-<br>
 
 <div align="center">
 
 ### Let's build something worth shipping.
 
-<br>
-
 **augustyapriyanshu@gmail.com**
 
-<br>
-<br>
-
-[ Portfolio → ](YOUR_VERCEL_URL)
+[Portfolio →](YOUR_VERCEL_URL)
 
 </div>
